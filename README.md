@@ -1,5 +1,5 @@
 # clientServerFTP
-Basic FTP Client Server with '-l' and '-g' functionality using C++ and Python
+Basic FTP Client Server with '-l' and '-g' functionality using C and Python
 
 To execute :
         Server and client need to be in different directories. txt files should be in server directory prior to executing below. This program is meant to be ran on OSU servers, anthough code could easily be modified to run on any client / server.
